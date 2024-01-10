@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC6jLlz11CGmJoEWzCpFDEYrUKWkHQ4w_8',
-    appId: '1:770428227091:android:5688aca5b6e39b779e79e6',
+    apiKey: '',
+    appId: '1:7707091:android:5688e6',
     messagingSenderId: '770428227091',
     projectId: 'mynotes-app-on-flutter',
     storageBucket: 'mynotes-app-on-flutter.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBZjZCZX5g_1LaYEWDvGW_nuDiDenXE3C0',
-    appId: '1:770428227091:ios:8e140f477d31c9e09e79e6',
+    apiKey: '',
+    appId: '1:77027091:ios:8e140f4',
     messagingSenderId: '770428227091',
     projectId: 'mynotes-app-on-flutter',
     storageBucket: 'mynotes-app-on-flutter.appspot.com',
